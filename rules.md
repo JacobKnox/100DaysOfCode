@@ -15,5 +15,5 @@ February 1st, 2023
 
 
 ## Contents
-* [Rules]([rules.md](https://github.com/JacobKnox/100DaysOfCode/blob/main/rules.md))
+* [Rules](https://github.com/JacobKnox/100DaysOfCode/blob/main/rules.md)
 * [Log - click here to see my progress](https://github.com/JacobKnox/100DaysOfCode/blob/main/log.md)
