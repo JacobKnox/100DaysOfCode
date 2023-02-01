@@ -8,6 +8,7 @@ This is the first time I am participating in this challenge starting on February
 - Begin work on [FSC File Share](https://github.com/JacobKnox/FSC-File-Share)
 - Finish up [Projects repository](https://github.com/JacobKnox/Jacob-Knox-Projects) (not really coding, but I still want to do it)
 - Software Engineering project (Palace mobile app)
+- Contribute to Politics and War's v3 API and Aurora's Java implementation of Aurora Space Puppy bot
 - Work through some LeetCode problems
 
 ## Secondary Goals
