@@ -7,3 +7,6 @@
 &emsp;&emsp;Created a !kick command for the Discord bot around 2:20 PM EST (more or less a copy and paste of the ban command with minor changes). [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/e776f76fb978c003995cfdea70249132a1aa7bdf)
 
 &emsp;&emsp;Started a !pnwmarket command to return information about the current buy and sell offers for a given resource. Worked on it for about 30 minutes from around 11:30 PM to 12:00 AM and made good progress, but currently running into a GraphQL error. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/aea30fd2b8b4abfa7489c5d8a870f5fff88283f5)
+
+## Day 2 - February 2nd, 2023
+&emsp;&emsp;Ashamed to admit I just spent an hour trying to figure out the issue I was having with the !pnwmarket command from around 6:30 to 7:30 PM EST. Thank God Village realized I was using an outdated version of pnwkit-py and that resolved everything. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/977d55768ed0365d1f11503588624763fd6775b8)
