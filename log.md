@@ -10,3 +10,5 @@
 
 ## Day 2 - February 2nd, 2023
 &emsp;&emsp;Ashamed to admit I just spent an hour trying to figure out the issue I was having with the !pnwmarket command from around 6:30 to 7:30 PM EST. Thank God [Village](https://github.com/mrvillage) realized I was using an outdated version of pnwkit-py and that resolved everything. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/977d55768ed0365d1f11503588624763fd6775b8)
+
+&emsp;&emsp;Spent the next roughly 20 minutes from 7:30 to 7:50 PM EST improving the !pnwmarket command. It now throws an error if the resource entered is invalid and defaults to "all" to get the market information of all resources. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/d9b194c7af76b05b89681ff12227f2787a622649)
