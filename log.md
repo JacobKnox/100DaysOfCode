@@ -14,3 +14,6 @@
 &emsp;&emsp;Spent the next roughly 20 minutes from 7:30 to 7:50 PM EST improving the !pnwmarket command. It now throws an error if the resource entered is invalid and defaults to "all" to get the market information of all resources. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/d9b194c7af76b05b89681ff12227f2787a622649)
 
 &emsp;&emsp;Spent the past roughly 20 minutes from 8:20 to 8:40 PM EST adding the !mute and !unmute commands. The !mute command, in its current state, creates a Muted role if one does not exist and adds it to the pinged members. The !unmute command, in its current state, removes this role from the pinged members. The bot sends messages alerting in the following cases: the Muted role does not exist and the user attempted to use the !unmute command, a pinged member is already muted and the user attempted to use the !mute command, and a pinged member is not muted and the user attempted to use the !unmute command. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/4e14932d79127acac37391a4c16f0d7cab59839c)
+
+## Day 3 - February 3rd, 2023
+&emsp;&emsp;Spent about an 1 hour and 30 minutes today from around 3:00 to 4:00 PM EST and then from around 9:30 to 10:00 PM EST finishing up the GraphQL docs update for the PnW v3 API.
