@@ -1,4 +1,7 @@
 # 100 Days Of Code
+
+Break Days (mainly so I know how many to add to the end): 1
+
 ## Day 1 - February 1st, 2023
 &emsp;&emsp;I coded for around 30 minutes from 11:45 AM to 12:15 PM EST and pushed changes to my Discord bot changing the !pnwraw and !pnwmanu resources to default to "all" which returns statistics about all raw/manu resources. [Commit](https://github.com/JacobKnox/Personal-Discord-Bot/commit/61af30bed1bdaee05734e8b51f82c3312b381bdf)
 
@@ -17,3 +20,6 @@
 
 ## Day 3 - February 3rd, 2023
 &emsp;&emsp;Spent about an 1 hour and 30 minutes today from around 3:00 to 4:00 PM EST and then from around 9:30 to 10:00 PM EST finishing up the GraphQL docs update for the PnW v3 API.
+
+## Day 4 - February 4th, 2023
+&emsp;&emsp;Today ended up being more of a physically productive and mental health day rather than mentally productive, so I didn't do any coding. Because of this, per the rules of the challenge, I cannot take another "break" until Day 15 and I must add a day to the end of this challenge.
