@@ -23,3 +23,6 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 4 - February 4th, 2023
 &emsp;&emsp;Today ended up being more of a physically productive and mental health day rather than mentally productive, so I didn't do any coding. Because of this, per the rules of the challenge, I cannot take another "break" until Day 15 and I must add a day to the end of this challenge.
+
+## Day 5 - February 5th, 2023
+&emsp;&emsp;Spent about 2 hours working on Aurora's Java implementation of the Aurora Space Puppy bot. First, I helped Toxic figure out how to work better with the JSONObject. Then, I added all the fields for a Nation model (going to start trying to parse JSON responses to the models soonish). Finally, I spent a good chunk of time fighting with Maven and Visual Studio Code to get the code to run locally.
