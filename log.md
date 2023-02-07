@@ -26,3 +26,6 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 5 - February 5th, 2023
 &emsp;&emsp;Spent about 2 hours working on Aurora's Java implementation of the Aurora Space Puppy bot. First, I helped Toxic figure out how to work better with the JSONObject. Then, I added all the fields for a Nation model (going to start trying to parse JSON responses to the models soonish). Finally, I spent a good chunk of time fighting with Maven and Visual Studio Code to get the code to run locally.
+
+## Day 6 - February 6th, 2023
+&emsp;&emsp;Spent an untold amount of time, though a decent amount, working on adding two filters to the Politics and War v3 API. Mainly because one of them proved to be more complicated than I initially thought and I still haven't gotten it to work.
