@@ -29,3 +29,6 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 6 - February 6th, 2023
 &emsp;&emsp;Spent an untold amount of time, though a decent amount, working on adding two filters to the Politics and War v3 API. Mainly because one of them proved to be more complicated than I initially thought and I still haven't gotten it to work.
+
+## Day 7 - February 7th, 2023
+&emsp;&emsp;Spent around two hours today finishing up the API filters and getting them ready to be merged into the master branch. The past few days have been a bit slow for me, so I'm hoping I can pick the pace up more in the coming days.
