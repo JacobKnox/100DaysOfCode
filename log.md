@@ -32,3 +32,9 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 7 - February 7th, 2023
 &emsp;&emsp;Spent around two hours today finishing up the API filters and getting them ready to be merged into the master branch. The past few days have been a bit slow for me, so I'm hoping I can pick the pace up more in the coming days.
+
+## Day 8 - February 8th, 2023
+&emsp;&emsp;Another day and even more time spent agonizing over the filters. Why must Laravel be the way that it is? I will conquer it. I must.
+
+## Day 9 - February 9th, 2023
+&emsp;&emsp;Today I got the code for PokeTCG Card Manager to run again (since the last time I ran it was on a different computer) and documented how I did it for future reference. I also spent time in class coding agglomerative clustering as part of class and later improved on it by adding the ability to choose what type of clustering to do and with which distance metric.
