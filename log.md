@@ -38,3 +38,6 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 9 - February 9th, 2023
 &emsp;&emsp;Today I got the code for PokeTCG Card Manager to run again (since the last time I ran it was on a different computer) and documented how I did it for future reference. I also spent time in class coding agglomerative clustering as part of class and later improved on it by adding the ability to choose what type of clustering to do and with which distance metric.
+
+## Day 10 - February 10th, 2023
+&emsp;&emsp;I decided it would probably be best to rewrite the backend for PokeTCG Card Manager since it was, frankly, poorly and hastily written with no regard to anything other than "Well... this works." I spent time today gutting everything on a new branch and starting the rewrite by tinkering with user-related things such as the UserController and associated routes.
