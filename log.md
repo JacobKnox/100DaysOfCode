@@ -41,3 +41,6 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 10 - February 10th, 2023
 &emsp;&emsp;I decided it would probably be best to rewrite the backend for PokeTCG Card Manager since it was, frankly, poorly and hastily written with no regard to anything other than "Well... this works." I spent time today gutting everything on a new branch and starting the rewrite by tinkering with user-related things such as the UserController and associated routes.
+
+## Day 11 - February 11th, 2023
+&emsp;&emsp;Spent some time finishing up the basic functionality of the UserController and trying to make sure everything about it was as well-written as possible.
