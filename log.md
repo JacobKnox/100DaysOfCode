@@ -47,3 +47,7 @@ Break Days (mainly so I know how many to add to the end): 1
 
 ## Day 12 - February 12th, 2023
 &emsp;&emsp;I didn't do much coding today, but I started on the CollectionController.
+
+
+## Day 13 - February 13th, 2023
+&emsp;&emsp;I spent some time adding on to the UserController by catching some exceptions and adding the logout function. I also decided to work a little on the views associated with the functionality of the controller.
